@@ -4,8 +4,8 @@ Restuarant search app that is part React Native learning. App simulates Yelp by 
 Yelp API was used to achieve this.
 
 Demonstrates use of:  
--react-navigation to switch between screens
--axios library to use outside API's
--TextInput element to allow users
--a custom hook for reusability of business logic
--StyleSheet and List building
+-react-navigation to switch between screens  
+-axios library to use outside API's  
+-TextInput element to allow users  
+-a custom hook for reusability of business logic  
+-StyleSheet and List building  
